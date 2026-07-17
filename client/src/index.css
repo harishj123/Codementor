@@ -1,0 +1,26 @@
+body{
+    background:#eef2f7;
+}
+
+a{
+    text-decoration:none;
+    color:inherit;
+}
+
+input,
+textarea,
+select{
+    width:100%;
+    padding:12px;
+    margin:10px 0;
+    border:1px solid #ccc;
+    border-radius:6px;
+}
+
+textarea{
+    resize:vertical;
+}
+
+h1,h2,h3{
+    margin-bottom:15px;
+}
